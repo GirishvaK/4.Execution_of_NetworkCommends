@@ -127,6 +127,7 @@ while True:
 client.close()
 ```
 ## Output
+1.Ping
 Server
 
 <img width="650" height="210" alt="image" src="https://github.com/user-attachments/assets/671117f1-6aa5-4766-9a56-abca38280a23" />
@@ -134,7 +135,13 @@ Server
 Client
 
 <img width="639" height="424" alt="image" src="https://github.com/user-attachments/assets/17756b14-699d-457e-b27d-6cb271123a1e" />
+2.Tracert
+Server
 
+<img width="635" height="287" alt="image" src="https://github.com/user-attachments/assets/40e91dff-1e33-4c0c-8995-a78c71b9a1df" />
+Client
+
+<img width="638" height="736" alt="image" src="https://github.com/user-attachments/assets/299c9ac5-b114-4bc5-9ec1-cb33fc1f5b33" />
 
 
 ## Result
